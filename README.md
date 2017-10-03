@@ -9,3 +9,6 @@ Contact Info
 ________________
 Argenis Lamadrid
 Email: argenislamadrid@gmail.com
+
+Gabriel Carrillo
+Email: gcarrillo2@sdsu.edu
