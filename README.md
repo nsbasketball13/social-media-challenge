@@ -12,3 +12,6 @@ Email: argenislamadrid@gmail.com
 
 Gabriel Carrillo
 Email: gcarrillo2@sdsu.edu
+
+Nhan Phan
+Email: ncphan@sdsu.edu
